@@ -21,7 +21,7 @@ public class removeStringArray {
                 minIdx = i;
             }
         }
-        //결과 배열 선언
+        //결과 배열 선언하기
 
         String[] result = new String[arr.length - 2];
         int curIndex = 0;
